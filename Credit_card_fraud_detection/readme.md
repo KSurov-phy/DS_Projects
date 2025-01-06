@@ -72,6 +72,3 @@ The dataset used in this project is the **Credit Card Fraud Detection Dataset** 
 - Dataset: [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `imblearn`, `xgboost`.
 
-## Contact
-For questions or suggestions, feel free to contact [Your Name](mailto:your.email@example.com).
-
